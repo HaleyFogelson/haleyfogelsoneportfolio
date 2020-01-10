@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Haley Fogelson.", "A Northeastern University Student.", "Studying Computer Engineering.", "Studying Computer Science.", "A Second year."],
+      strings: ["Hi I'm Haley Fogelson.", "A second year", "At Northeastern University", "Studying Computer Engineering and Computer Science"],
       typeSpeed: 100,
       loop: true,
     });
